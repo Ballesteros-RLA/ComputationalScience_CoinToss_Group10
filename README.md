@@ -6,3 +6,5 @@
 <img width="4880" height="3909" alt="graph5TABLE" src="https://github.com/user-attachments/assets/644860bd-4ac1-4654-b32b-c41b956f15fc" />
 <img width="4880" height="3909" alt="graph5TILES" src="https://github.com/user-attachments/assets/1995839d-68c1-440a-a0b5-848eea8e4501" />
 
+<img width="5853" height="4359" alt="graph6TABLE" src="https://github.com/user-attachments/assets/c5272116-dbd2-4c99-980d-0bbffa05bc7a" />
+<img width="5857" height="5403" alt="graph6TILES" src="https://github.com/user-attachments/assets/4bf17474-6963-4b89-8131-5bb5da80f999" />
