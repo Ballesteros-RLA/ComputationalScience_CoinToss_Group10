@@ -5,4 +5,4 @@
 <img width="5120" height="3381" alt="graph4" src="https://github.com/user-attachments/assets/dcff8d97-dc6c-4e63-b831-34ad6167a100" />
 <img width="4880" height="3909" alt="graph5TABLE" src="https://github.com/user-attachments/assets/644860bd-4ac1-4654-b32b-c41b956f15fc" />
 <img width="4880" height="3909" alt="graph5TILES" src="https://github.com/user-attachments/assets/1995839d-68c1-440a-a0b5-848eea8e4501" />
-<img width="4949" height="4344" alt="graph6" src="https://github.com/user-attachments/assets/39888018-09ff-4f09-b680-5a61dc7fb345" />
+
